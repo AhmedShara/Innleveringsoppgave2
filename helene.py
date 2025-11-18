@@ -11,7 +11,7 @@ print("Samtidig begynner teamet å bli slitent, og fristen for første prototype
 print("Du skal ta tre valg som påvirker prosjektet.\n")
 
 
-# ---------- BESLUTNINGSPUNKT 1 ------------
+# ----------- BESLUTNING 1 --------------
 #Hvordan håndterer Erling konflikten mellom Silje og Sivert?
 
 print("=== Beslutningspunkt 1: Konflikten mellom Silje og Sivert ===\n")
