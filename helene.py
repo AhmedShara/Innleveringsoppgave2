@@ -1,8 +1,7 @@
 # Interaktiv historie: Erling som prosjektleder
 
-#------------------------------------
-# 1.INTRODUKSJON
-#------------------------------------
+# ----------- 1.INTRODUKSJON ----------------
+
 print("Velkommen til historien om Erling, prosjektleder for den digitale medborgerportalen.\n")
 print("Etter en god oppstart har prosjektet nå gått inn i en mer krevende periode.")
 print("Silje og Sivert er i konflikt om teknologi valg og design.")
@@ -11,10 +10,10 @@ print("Samtidig begynner teamet å bli slitent, og fristen for første prototype
 
 print("Du skal ta tre valg som påvirker prosjektet.\n")
 
-#-------------------------------------
-# 2. BESLUTNINGSPUNKT 1
+
+# ---------- BESLUTNINGSPUNKT 1 ------------
 #Hvordan håndterer Erling konflikten mellom Silje og Sivert?
-#-------------------------------------
+
 print("=== Beslutningspunkt 1: Konflikten mellom Silje og Sivert ===\n")
 print("Silje (UX-designer) og Sivert (IT-rådgiver) har en konflikt om teknologivalg og design.")
 print("Uenigheten har gått fra faglig diskusjon til personlig irritasjon.")
