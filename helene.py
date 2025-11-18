@@ -27,7 +27,7 @@ valg1 = input("Velg (a/b): ").lower()
 # ------------ BESLUTNING 2 ------------
 print("Hvordan håndterer han uenigheten mellom Hamdi og Jabir?")
 print("Hamdi ønsker kontrollert innbyggerdialog. Jabir ønsker en mer åpen løsning.\n")
-print("Erling merker at frustrasjonen øker, selv om klomflikten ennå ikke har eklpodert.\n")
+print("Erling merker at frustrasjonen øker, selv om konflikten ennå ikke har eksplodert.\n")
 
 print("a) Invitere til et felles møte for å avklare uenigheten.")
 print("b) Avvente og håpe det løser seg.\n")
