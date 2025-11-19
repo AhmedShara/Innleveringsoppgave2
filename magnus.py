@@ -8,9 +8,6 @@ print("Erling leder et  prosjektteam som har gått inn i storming-fasen.")
 print("Konflikter og uenigheter skaper en intern spenning, og Erling må gjøre kloke valg.\n")
 
 
-# -------------------------
-# BESLUTNINGSPUNKT 1
-# -------------------------
 print("\n--- Beslutning 1: Konflikten mellom Silje og Sivert ---")
 print("Silje og Sivert har havnet i en personlig konflikt som påvirker teamet.\n")
 
@@ -29,9 +26,7 @@ if valg1 == "A":
 else:
     print("\nDu tar individuelle samtaler. Temperaturen dempes, men konflikten er ikke helt løst.")
 
-# -------------------------
-# BESLUTNINGSPUNKT 2
-# -------------------------
+
 print("\n--- Beslutning 2: Uenigheten mellom Hamdi og Jabir ---")
 print("Uenigheten mellom dem er foreløpig lav, men kan eskalere.\n")
 
@@ -49,9 +44,7 @@ if valg2 == "A":
 else:
     print("\nDu avventer. Spenningen mellom dem øker litt, men ikke dramatisk ennå.")
 
-# -------------------------
-# BESLUTNINGSPUNKT 3
-# -------------------------
+
 print("\n--- Beslutning 3: Motivere teamet ---")
 print("Teamet er slitent etter konflikter. Erling må styrke motivasjonen.\n")
 
@@ -78,7 +71,7 @@ print("============================\n")
 
 # Endepunkt 1: Teamet når norming (1B - 2A - 3A)
 if valg1 == "B" and valg2 == "A" and valg3 == "A":
-    print("✨ UTFALL: Teamet gjenoppretter tillit og går videre til norming-fasen.")
+    print("UTFALL: Teamet gjenoppretter tillit og går videre til norming-fasen.")
     print("Erling sin rolige tilnærming skaper trygghet, og gruppen lærer av konfliktene.")
     print("Prosjektet får ny energi og samarbeidet forbedres markant.")
 
